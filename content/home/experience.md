@@ -27,18 +27,18 @@ experience:
     company_url: ''
     company_logo: oxford-logo
     location: Paris
-    date_start: '2024-04-01'
+    date_start: '2022-04-01'
     date_end: ''
-    description: doing stuff
+    description: ''
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Predoctoral Fellow
+    company: NYU
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: nyu-logo
+    location: New York City
+    date_start: '2019-10-01'
+    date_end: '2021-06-31'
+    description: Modeling Ignition within a dynamical large scale networks 
 
 design:
   columns: '2'

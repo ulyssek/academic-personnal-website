@@ -7,7 +7,10 @@ event_url: https://www.youtube.com/watch?v=0reBHYw50mk
 location: Youtube
 
 summary: Interview by the Youtuber Monsieur Phi 
-abstract: 'Interview by the French Youtuber Monsieur Phi during the first edition of the Mediterranean Seminar for Consciousness (In French with English subtitles). Personnal Goal: help my family finnaly understand what I do at night.'
+abstract: 'Interview by the French Youtuber Monsieur Phi during the first edition of the Mediterranean Seminar for Consciousness (In French with English subtitles). Personnal Goal: help my family finnaly understand what I do at night.
+<br/>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0reBHYw50mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

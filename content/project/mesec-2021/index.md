@@ -23,9 +23,6 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-
-
-
 ---
 
 MESEC is a non-profit association aspiring to connect early-career researchers who are passionate about consciousness science, and provide a space for discussion and reflection in which they can explore this fascinating research field under the gentle Mediterranean sun.

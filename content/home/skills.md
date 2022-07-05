@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description: 
+    icon: keyboard
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Python
+  - description:
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Dynamical Systems
+  - description:
+    icon: brain
     icon_pack: fas
-    name: Photography
+    name: Large Scale Dynamical Simulations
+  - description:
+    icon: quote-right
+    icon_pack: fas
+    name: Project Management
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

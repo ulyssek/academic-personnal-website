@@ -1,9 +1,9 @@
 ---
-title: MESEC WinterSchool 2021 
+title: MESEC WinterSchool 2022 
 summary: First Edition 
 
 tags:
-  - workshop 
+  - winterschool
 date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

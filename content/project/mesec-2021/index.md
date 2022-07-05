@@ -1,6 +1,6 @@
 ---
-title: Mediterranean Society for Consciousness Science
-summary: Workshops and WinterSchool organized by and for Early Career Researchers 
+title: MESEC Workshop 2021 
+summary: First Edition 
 
 tags:
   - workshop 
@@ -10,7 +10,7 @@ date: '2021-09-04T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: '' 
   focal_point: Smart
 
 links:
@@ -37,4 +37,6 @@ MESEC is a non-profit association aspiring to connect early-career researchers w
 <br/>
 <br/>The consequence of this lack of dialogue is that early career researchers encounter difficulties to grasp the full diversity of philosophical and empirical work in this blooming research field. We speak from our own experiences. We have therefore envisioned this seminar as a grassroots movement—a seminar organized by and made for early career researchers in consciousness science to fill the gaps between theories in a friendly, supportive, and constructive environment.
 <br/>
-<br/>Find out more! <a href="mesec.co">mesec.co</a>
+<br/>Scientific Chair: Cyriel Pennartz
+<br/>Keynote Speakers: María Victoria Sánchez-Vives, Viktor Jirsa, Steven Laureys, Mihai Alexandru Petrovici, Theofanis Panagiotaropoulos.
+<br/>Find out more <a href="https://mesec.co/event/seminar_2021">here</a>!

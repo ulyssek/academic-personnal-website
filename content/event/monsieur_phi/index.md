@@ -1,16 +1,10 @@
 ---
-title: Example Talk
+title: Youtube Interview 
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Monsieur Phi
+event_url: https://www.youtube.com/watch?v=0reBHYw50mk
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Youtube
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

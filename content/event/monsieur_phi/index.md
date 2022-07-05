@@ -1,20 +1,20 @@
 ---
-title: Youtube Interview 
+title: SFN 2021, video abstract 
 
 event: Link to the Video
 event_url: https://www.youtube.com/watch?v=0reBHYw50mk
 
-location: Youtube
+location: Chicago - Online
 
-summary: Interview by the Youtuber Monsieur Phi 
-abstract: 'Interview by the French Youtuber Monsieur Phi during the first edition of the Mediterranean Seminar for Consciousness (In French with English subtitles). Personnal Goal: help my family finnaly understand what I do at night.
+summary: 'Presentation of the preprint: A connectome-based model of conscious access in monkey cortex' 
+abstract: '
+A growing body of evidence suggests that conscious perception of a sensory stimulus triggers an all-or-none activity across multiple cortical areas, a phenomenon called ‘ignition’. In contrast, the same stimulus, when undetected, induces only transient activity. In this work, we report a large-scale model of the macaque cortex based on recently quantified structural connectome data. We use this model to simulate a detection task, and demonstrate how a dynamical bifurcation mechanism produces ignition-like events in the model network. Within this framework, the model predicts that feedforward excitatory transmission is primarily mediated by the fast AMPA receptors to ensure rapid signal propagation from sensory to associative areas. In contrast, a large fraction of the inter-areal feedback projections and local recurrent excitation depend on the slow NMDA receptors, to ensure ignition of distributed frontoparietal activity.
 <br/>
-<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0reBHYw50mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+<br/>Our model predicts, counterintuitively, that fast-responding sensory areas contain a higher ratio of NMDA to AMPA receptors compared to association cortical areas that show slow, sustained activity. We validate this prediction using in-vitro receptor autoradiography data. Finally, we show how this model can account for various behavioral and physiological effects linked to consciousness. Together, these findings clarify the neurophysiological mechanisms of conscious access in the primate cortex and support the concept that gradients of receptor densities along the cortical hierarchy contribute to distributed cognitive functions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-09-10T13:00:00Z'
+date: '2021-11-10T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

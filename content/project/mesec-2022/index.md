@@ -4,10 +4,10 @@ summary: Second Edition
 
 tags:
   - workshop 
-date: '2022-08-27T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://mesec.co/event/seminar_2022'
 
 image:
   caption: '' 

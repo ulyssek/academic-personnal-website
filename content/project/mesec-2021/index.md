@@ -7,7 +7,7 @@ tags:
 date: '2021-09-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://mesec.co/event/seminar_2021'
 
 image:
   caption: '' 
@@ -17,7 +17,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/_mesec
+    url: https://twitter.com/mesec_
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -39,4 +39,4 @@ MESEC is a non-profit association aspiring to connect early-career researchers w
 <br/>
 <br/>Scientific Chair: Cyriel Pennartz
 <br/>Keynote Speakers: María Victoria Sánchez-Vives, Viktor Jirsa, Steven Laureys, Mihai Alexandru Petrovici, Theofanis Panagiotaropoulos.
-<br/>Find out more <a href="https://mesec.co/event/seminar_2021">here</a>!
+<br/>Find out more <a href="

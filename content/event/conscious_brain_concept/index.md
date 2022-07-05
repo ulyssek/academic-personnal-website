@@ -8,8 +8,8 @@ location: Online
 
 summary: 'Conscious Brain Concept 2021'
 abstract: '
-<div> 
-  <iframe src="https://www.youtube.com/watch?v=Lrlx4xJ_ttI&list=PLiAlSEf7VoWd6kxYZ_JhELO-HfsfanksC" 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"> 
+  <iframe src="https://www.youtube.com/watch?v=Lrlx4xJ_ttI&list=PLiAlSEf7VoWd6kxYZ_JhELO-HfsfanksC"
           allowfullscreen="" title="YouTube Video"></iframe>
 </div>
 Our brain and cognition was built by hundreds of millions of years of evolution, and was « designed », not to give us an accurate picture of the world, but to help us survive and pass our genes.  «  Understanding »  the quantum nature of reality will be of little help while hunting a dear. «  Knowing » that the earth is round might be counter-productive while throwing a rock at a wild boar. Instead, natural selection and early development gave us powerful intuitions to interact with the world around us, that were proven to be wrong (like the flat earth shared intuition).

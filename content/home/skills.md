@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 
     icon: keyboard
-    icon_pack: fab
+    icon_pack: fas
     name: Python
   - description:
     icon: chart-line

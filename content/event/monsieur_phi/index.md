@@ -1,12 +1,12 @@
 ---
 title: Youtube Interview 
 
-event: Link to the Video
-event_url: https://www.youtube.com/watch?v=0reBHYw50mk
+event: Monsieur Phi Channel 
+event_url: https://www.youtube.com/c/MonsieurPhi 
 
 location: Corsica
 
-summary: 'Iterview by the french Youtuber Monsieur Phi'
+summary: 'Interview by the french Youtuber Monsieur Phi'
 abstract: 'Interview for a broader audience (In French, with English Subtitles) by the frennch YouTuber Monsieur Phi. Personnal Goal: Help my familly to finaly understand what I do at night
 <br/>
 <br/><iframe width="560" height="315" src="https://www.youtube.com/embed/0reBHYw50mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'

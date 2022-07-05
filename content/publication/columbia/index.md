@@ -1,21 +1,12 @@
 ---
-title: 'A connectome-based model of conscious access in monkey cortex'
+title: 'Excitatory to inhibitory connectivity shaped by synaptic and homeostatic plasticity'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Jacopo Bonno** 
   - Ulysse Klatzmann**
-  - Sean Froudist-Walsh**
-  - Daniel P. Bliss
-  - Panagiota Theodoni
-  - Jorge Mejías
-  - Meiqi Niu
-  - Lucija Rapan
-  - Nicola Palomero-Gallagher
-  - Claire Sergent
-  - Stanislas Dehaene
-  - Xiao-Jing Wang
 
 # Author notes (optional)
 author_notes:

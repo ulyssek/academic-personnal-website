@@ -29,7 +29,7 @@ experience:
     location: Paris
     date_start: '2024-04-01'
     date_end: ''
-    description: ''
+    description: 'plop'
 
   - title: Predoctoral Fellow 
     company: NYU

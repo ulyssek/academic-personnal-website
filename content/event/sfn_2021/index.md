@@ -1,28 +1,20 @@
 ---
-title: Should our most vivid intuitions be trusted? 
+title: SFN 2021, video abstract 
 
-event: Conscious Brain Concept 2021
-event_url: https://www.youtube.com/channel/UCeFRo_3i53K2xV8YuPjPACA 
+event: Link to the Video
+event_url: https://www.youtube.com/watch?v=0reBHYw50mk
 
-location: Online
+location: Chicago - Online
 
-summary: 'Conscious Brain Concept 2021'
+summary: 'Presentation of the preprint: A connectome-based model of conscious access in monkey cortex' 
 abstract: '
-<br/>Our brain and cognition was built by hundreds of millions of years of evolution, and was « designed », not to give us an accurate picture of the world, but to help us survive and pass our genes.  «  Understanding »  the quantum nature of reality will be of little help while hunting a dear. «  Knowing » that the earth is round might be counter-productive while throwing a rock at a wild boar. Instead, natural selection and early development gave us powerful intuitions to interact with the world around us, that were proven to be wrong (like the flat earth shared intuition).
+A growing body of evidence suggests that conscious perception of a sensory stimulus triggers an all-or-none activity across multiple cortical areas, a phenomenon called ‘ignition’. In contrast, the same stimulus, when undetected, induces only transient activity. In this work, we report a large-scale model of the macaque cortex based on recently quantified structural connectome data. We use this model to simulate a detection task, and demonstrate how a dynamical bifurcation mechanism produces ignition-like events in the model network. Within this framework, the model predicts that feedforward excitatory transmission is primarily mediated by the fast AMPA receptors to ensure rapid signal propagation from sensory to associative areas. In contrast, a large fraction of the inter-areal feedback projections and local recurrent excitation depend on the slow NMDA receptors, to ensure ignition of distributed frontoparietal activity.
 <br/>
-<br/>Because other people cognition (as long as ours) is such an important part of our environment, it’s likely that evolution gave us intuitions that could be good first approximations, but couldn’t in the end be farer the truth (free will being one of the obvious one).
-<br/>
-<br/>We all have strong intuitions, sometimes shared, sometimes based on our very personal subjective experience . It’s tempting to consider them as a good start to study consciousness. But while they can teach us a lot about the meta problem of consciousness (as stated by David Chalmers), they should be dealt with cautions while used as arguments supporting a theory.
-<br/>
-<br/>Being genuinely certain of something does not make it true.
-<br/>
-<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lrlx4xJ_ttI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-'
+<br/>Our model predicts, counterintuitively, that fast-responding sensory areas contain a higher ratio of NMDA to AMPA receptors compared to association cortical areas that show slow, sustained activity. We validate this prediction using in-vitro receptor autoradiography data. Finally, we show how this model can account for various behavioral and physiological effects linked to consciousness. Together, these findings clarify the neurophysiological mechanisms of conscious access in the primate cortex and support the concept that gradients of receptor densities along the cortical hierarchy contribute to distributed cognitive functions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-12-10T13:00:00Z'
+date: '2021-11-10T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,6 +47,6 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-#  - mesec-2021 
+projects:
+  - mesec-2021 
 ---

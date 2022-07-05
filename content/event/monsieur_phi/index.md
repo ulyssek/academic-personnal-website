@@ -7,7 +7,7 @@ event_url: https://www.youtube.com/watch?v=0reBHYw50mk
 location: Youtube
 
 summary: Interview by the Youtuber Monsieur Phi 
-abstract: Interview made during the first MESEC workshop for a broader audience (In french with English subtitles). Personnal Goal: Explain as clearly as possible so my family finally understand what I do at night. 
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -43,7 +43,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: example
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

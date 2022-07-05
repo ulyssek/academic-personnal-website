@@ -4,7 +4,7 @@ summary: First Edition
 
 tags:
   - workshop 
-date: '2022-11-15T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://mesec.co/event/winter_school_2022'

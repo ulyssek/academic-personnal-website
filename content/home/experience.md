@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: New York City
-    date_start: '2019-10-01'
-    date_end: '2021-06-31'
+    date_start: '2016-01-01'
+    date_end: '2021-06-30'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

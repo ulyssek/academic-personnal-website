@@ -1,13 +1,13 @@
 ---
 title: Youtube Interview 
 
-event: Monsieur Phi
+event: Link to the Video
 event_url: https://www.youtube.com/watch?v=0reBHYw50mk
 
 location: Youtube
 
 summary: Interview by the Youtuber Monsieur Phi 
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Interview by the French Youtuber Monsieur Phi during the first edition of the Mediterranean seminar for consciousness (In French with English subtitles). Personnal Goal: help my family finnaly understand what I do at night.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

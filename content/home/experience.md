@@ -31,13 +31,13 @@ experience:
     date_end: ''
     description: doing stuff
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Predoctoral Fellow 
+    company: NYU
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: New York City
+    date_start: '2019-10-01'
+    date_end: '2021-06-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

@@ -29,16 +29,25 @@ experience:
     location: Paris
     date_start: '2022-04-01'
     date_end: ''
-    description: 'plop'
+    description: ''
 
   - title: Predoctoral Fellow 
     company: NYU
-    company_url: ''
+    company_url: 'https://www.biorxiv.org/content/10.1101/2022.02.20.481230v2.abstract'
     company_logo: nyu-logo
     location: New York City
     date_start: '2019-10-01'
     date_end: '2021-06-30'
     description: Modeling Ignition within Dynamical Large Scale Networks 
+
+  - title: Undergraduate Intern 
+    company: Columbia University
+    company_url: 'https://link.springer.com/article/10.1186/1471-2202-16-S1-P126'
+    company_logo: columbia-logo
+    location: New York City
+    date_start: '2013-03-01'
+    date_end: '2013-07-31'
+    description: Modeling Cortex V1 within Dynamical Local Networks
 
 design:
   columns: '2'

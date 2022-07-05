@@ -3,7 +3,7 @@ title: Mediterranean Society for Consciousness Science
 summary: Workshops and WinterSchool organized by and for Early Career Researchers 
 
 tags:
-  - Workshop 
+  - workshop 
 date: '2021-09-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

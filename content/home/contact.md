@@ -32,16 +32,11 @@ content:
     postcode: '75006'
     country: France 
     country_code: FR
-  directions: '' 
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/UlysseKlatzmann'
 
 design:
   columns: '2'

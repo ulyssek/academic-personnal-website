@@ -1,8 +1,8 @@
 ---
 title: SFN 2021, video abstract 
 
-event: Link to the Video
-event_url: https://www.youtube.com/watch?v=HuVvF7Sr80w 
+event: SFN
+event_url: https://www.sfn.org/ 
 
 location: Chicago - Online
 

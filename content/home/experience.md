@@ -29,16 +29,16 @@ experience:
     location: Paris
     date_start: '2024-04-01'
     date_end: ''
-    description: doing stuff
+    description: ''
 
   - title: Predoctoral Fellow 
     company: NYU
     company_url: ''
-    company_logo: org-x
+    company_logo: nyu-logo
     location: New York City
-    date_start: '2016-01-01'
+    date_start: '2019-10-01'
     date_end: '2021-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Modeling Ignition within Dynamical Large Scale Networks 
 
 design:
   columns: '2'

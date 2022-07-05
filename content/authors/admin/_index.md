@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in NeuroCogntive Modeling 
+      institution: Université Paris Cité/ University of Oxford
+      year: 2022-2025
     - course: Master of Science in Cognitive Science
       institution: Ecole Normale Supérieure
       year: 2019

@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2015-01-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1186/1471-2202-16-S1-P126'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2015-01-01T00:00:00Z'

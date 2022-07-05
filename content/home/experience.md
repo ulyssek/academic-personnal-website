@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: oxford-logo
     location: Paris
-    date_start: '2024-04-01'
+    date_start: '2022-04-01'
     date_end: ''
     description: 'plop'
 

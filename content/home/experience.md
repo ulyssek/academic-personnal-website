@@ -25,7 +25,7 @@ experience:
   - title: PhD Student
     company: Université Paris Cité, University of Oxford
     company_url: ''
-    company_logo: org-gc
+    company_logo: oxford-logo
     location: Paris
     date_start: '2024-04-01'
     date_end: ''

@@ -72,8 +72,8 @@ highlight_name: true
 ---
 
 Parisian, born and raised! Curiosity drove my whole life, and led me to the wonderful labs of Daniel Margulies and Sean Froudist-Walsh - my two PhD supervisors and mentors - where I study the emergence of conscious access from the cortex topological architecture. My passion for mathematics and computer science gave me a computational angle. 
-<br/>I spend most of my time simulating global dynamics within whole cortex models and chilling on the river banks or rooftops of the beautiful Paris.
+<br/>I spend most of my time simulating global dynamics within whole cortex models and chilling on the river banks or rooftops of beautiful Paris.
 <br/>
-<br/>I'm deeply into scientific discussions, especially with people I don't agree with. This is, I guess, one of the reason that led me to the <a href="mesec.co">MESEC adventure</a>, a series of international Workshop and WinterSchool that I organize with friends from all around the globe, under the sun of the Mediterrean see.
+<br/>I'm deeply into scientific discussions, especially with people I don't agree with. This is, I guess, one of the reason that led me to the <a href="mesec.co">MESEC adventure</a>, a series of international Workshops and WinterSchools that I organize with friends from all around the globe, under the sun of the Mediterrean see.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

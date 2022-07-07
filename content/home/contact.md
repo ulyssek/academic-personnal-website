@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ulysse.klatzman@cnrs.fr
+  email: ulysse.klatzmann@cnrs.fr
   address:
     street: 45 rue des Saints-Pères 
     city: Paris

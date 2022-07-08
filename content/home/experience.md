@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: ''
 
-  - title: Predoctoral Fellow 
+  - title: Research Scholar 
     company: NYU
     company_url: 'https://www.biorxiv.org/content/10.1101/2022.02.20.481230v2.abstract'
     company_logo: nyu-logo

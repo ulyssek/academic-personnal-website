@@ -28,10 +28,14 @@ content:
     country: France 
     country_code: FR
   contact_links:
-    - icon: twitter
+    - icon: github
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/UlysseKlatzmann'
+      name: GitHub
+      link: 'https://github.com/ulyssek/'
+    - icon: google-scholar
+      icon_pack: ai
+      name: Google Scholar
+      link: 'https://scholar.google.com/citations?hl=fr&user=lCXjLYsAAAAJ'
 
 design:
   columns: '2'

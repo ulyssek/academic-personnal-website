@@ -10,7 +10,7 @@ role: PhD Student in NeuroCognitive Modeling
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Université Paris Cité/ University of Oxford
+  - name: Université Paris Cité / University of Oxford
     url: https://u-paris.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
@@ -21,13 +21,13 @@ interests:
   - Cognitive Science
   - Computational Neuroscience
   - Dynamical Systems
-  - Cheese 
+  - Cheese
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in NeuroCognitive Modeling 
-      institution: Université Paris Cité/ University of Oxford
+    - course: PhD in NeuroCognitive Modeling
+      institution: Université Paris Cité / University of Oxford
       year: 2022-2025
     - course: Master of Science in Cognitive Science
       institution: Ecole Normale Supérieure
@@ -71,9 +71,9 @@ email: 'ulysse.klatzmann@cnrs.fr'
 highlight_name: true
 ---
 
-Parisian, born and raised! Curiosity drove my whole life, and led me to the wonderful labs of Daniel Margulies and Sean Froudist-Walsh - my two PhD supervisors and mentors - where I study the emergence of conscious access from the cortex topological architecture. My passion for mathematics and computer science gave me a computational angle. 
-<br/>I spend most of my time simulating global dynamics within whole cortex models and chilling on the river banks or rooftops of beautiful Paris.
+Parisian, born and raised! Curiosity drove my whole life, and led me to the wonderful labs of Daniel Margulies and Sean Froudist-Walsh — my two PhD supervisors and mentors — where I study the emergence of conscious access from the cortex topological architecture. My passion for mathematics and computer science gave me a computational angle.
+<br/>I spend most of my time simulating global dynamics within whole cortex models and enjoying the river banks and rooftops of beautiful Paris.
 <br/>
-<br/>I'm deeply into scientific discussions, especially with people I don't agree with. This is, I guess, one of the reason that led me to the <a href="mesec.co">MESEC adventure</a>, a series of international Workshops and WinterSchools that I organize with friends from all around the globe, under the sun of the Mediterrean see.
+<br/>I thrive on scientific discussions, especially with people I don't agree with. This is, I guess, one of the reasons that led me to the <a href="https://mesec.co">MESEC adventure</a>, a series of international workshops and winter schools that I organize with friends from all around the globe, under the sun of the Mediterranean Sea.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

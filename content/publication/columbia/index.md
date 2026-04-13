@@ -7,7 +7,7 @@ title: 'Excitatory to inhibitory connectivity shaped by synaptic and homeostatic
 authors:
   - Jacopo Bonno** 
   - Ulysse Klatzmann**
-  - Clopath Claudia 
+  - Claudia Clopath
 
 # Author notes (optional)
 author_notes:

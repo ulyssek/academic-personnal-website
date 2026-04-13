@@ -6,8 +6,8 @@ event_url: https://www.youtube.com/c/MonsieurPhi
 
 location: Corsica
 
-summary: 'Interview by the french Youtuber Monsieur Phi'
-abstract: 'Interview for a broader audience (In French, with English Subtitles) by the frennch YouTuber Monsieur Phi. Personnal Goal: Help my familly to finaly understand what I do at night
+summary: 'Interview by the French YouTuber Monsieur Phi'
+abstract: 'Interview for a broader audience (in French, with English subtitles) by the French YouTuber Monsieur Phi. Personal goal: help my family finally understand what I do for a living
 <br/>
 <br/><iframe width="560" height="315" src="https://www.youtube.com/embed/0reBHYw50mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 

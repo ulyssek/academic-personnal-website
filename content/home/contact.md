@@ -1,14 +1,9 @@
 ---
-# An instance of the Contact widget.
 widget: contact
-
-# This file represents a page section.
 headless: true
+weight: 70
 
-# Order that this section appears on the page.
-weight: 130
-
-title: Contact
+title: Get in Touch
 subtitle:
 
 content:

@@ -3,8 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-active: false
-weight: 90
+active: true
+weight: 45
 
 title: Recent Publications
 subtitle: ''

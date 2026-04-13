@@ -33,4 +33,4 @@ MESEC is a non-profit association aspiring to connect early-career researchers w
 <br/>
 <br/>
 <br/>
-<br/>Find out more <a href="https://mesec.co/event/winter_school_2022">here</a>, more info to come!
+<br/>Find out more <a href="https://mesec.co/event/winter_school_2022">here</a>.

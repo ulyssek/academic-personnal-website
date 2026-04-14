@@ -2,8 +2,8 @@
 title: 'A dynamic bifurcation mechanism explains cortex-wide neural correlates of conscious access'
 
 authors:
-  - Ulysse Klatzmann**
-  - Sean Froudist-Walsh**
+  - Ulysse Klatzmann
+  - Sean Froudist-Walsh
   - Daniel P. Bliss
   - Panagiota Theodoni
   - Jorge Mejías

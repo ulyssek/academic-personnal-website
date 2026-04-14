@@ -5,8 +5,8 @@ title: 'Excitatory to inhibitory connectivity shaped by synaptic and homeostatic
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jacopo Bonno** 
-  - Ulysse Klatzmann**
+  - Jacopo Bonno
+  - Ulysse Klatzmann
   - Claudia Clopath
 
 # Author notes (optional)

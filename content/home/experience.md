@@ -12,7 +12,7 @@ experience:
   - title: Postdoctoral Researcher
     company: CHU Sainte-Justine, Université de Montréal
     company_url: ''
-    company_logo: ''
+    company_logo: udem-logo
     location: Montreal
     date_start: '2026-04-01'
     date_end: ''

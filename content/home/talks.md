@@ -3,14 +3,12 @@ widget: blank
 headless: true
 weight: 50
 
-title: MESEC
+title: 'MESEC <br> <img src="/mesec-brain.png" alt="MESEC brain icon" style="width: 180px; margin-top: 1rem;">'
 subtitle:
 
 design:
   columns: '2'
 ---
-
-<img src="/mesec-brain.png" alt="MESEC brain icon" style="width: 180px; margin-bottom: 1.5rem;">
 
 [MESEC](https://mesec.co) is a bottom-up international initiative that fosters dialogue across approaches to consciousness science. We organize workshops and winter schools, bringing together researchers from around the world under the sun of the Mediterranean Sea.
 

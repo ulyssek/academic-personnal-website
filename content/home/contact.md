@@ -22,9 +22,7 @@ content:
   # Contact details (edit or remove options as required)
   email: ulysse.klatzmann.hsj@ssss.gouv.qc.ca
   address:
-    street: ''
     city: Montreal
-    postcode: ''
     country: Canada
     country_code: CA
   contact_links:

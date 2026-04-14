@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 50
 
-title: 'MESEC <br> <img src="/mesec-brain.png" alt="MESEC brain icon" style="width: 180px; margin-top: 1rem;">'
+title: 'MESEC <br> <img src="/mesec-brain.png" alt="MESEC brain icon" style="width: 280px; margin-top: 1rem;">'
 subtitle:
 
 design:

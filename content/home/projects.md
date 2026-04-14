@@ -1,6 +1,7 @@
 ---
 widget: portfolio
 headless: true
+active: false
 weight: 60
 
 title: MESEC — Mediterranean Society for Consciousness Science

@@ -19,9 +19,9 @@ experience:
     description: Large-scale computational modeling of brain dynamics.
 
   - title: Visiting Postdoc
-    company: Berlin
+    company: Freie Universität Berlin
     company_url: ''
-    company_logo: ''
+    company_logo: fu-berlin-logo
     location: Berlin
     date_start: '2025-11-01'
     date_end: '2026-03-31'

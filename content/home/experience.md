@@ -16,7 +16,7 @@ experience:
     location: Montreal
     date_start: '2026-04-01'
     date_end: ''
-    description: Large-scale computational modeling of brain dynamics.
+    description: ''
 
   - title: Visiting Postdoc
     company: Freie Universität Berlin
@@ -34,7 +34,7 @@ experience:
     location: Paris
     date_start: '2022-04-01'
     date_end: '2025-11-01'
-    description: Studied the emergence of conscious access from the cortex topological architecture.
+    description: ''
 
   - title: Research Scholar
     company: NYU
@@ -43,7 +43,7 @@ experience:
     location: New York City
     date_start: '2019-10-01'
     date_end: '2021-06-30'
-    description: Modeling Ignition within Dynamical Large Scale Networks
+    description: ''
 
 design:
   columns: '2'

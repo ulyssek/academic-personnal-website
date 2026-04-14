@@ -95,7 +95,7 @@
             type="text/css"
             id="style2">
 	.st0 {
-        fill: #FFFFFF;
+        fill: none;
     }
 
     @keyframes sway {
@@ -111,7 +111,7 @@
     path {
         animation: sway 3s ease-in-out infinite;
         transform-origin: center;
-        stroke: #eeeeee;
+        stroke: #222222;
         stroke-width: 2;
     }
 

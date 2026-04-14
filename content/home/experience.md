@@ -20,7 +20,7 @@ experience:
 
   - title: Visiting Postdoc
     company: Freie Universität Berlin
-    company_url: ''
+    company_url: 'https://doi.org/10.31234/osf.io/raqsh_v1'
     company_logo: fu-berlin-logo
     location: Berlin
     date_start: '2025-11-01'
@@ -29,7 +29,7 @@ experience:
 
   - title: PhD Student
     company: Université Paris Cité, University of Oxford
-    company_url: ''
+    company_url: 'https://doi.org/10.1101/2025.09.08.674858'
     company_logo: oxford-logo
     location: Paris
     date_start: '2022-04-01'
@@ -38,7 +38,7 @@ experience:
 
   - title: Research Scholar
     company: NYU
-    company_url: 'https://www.biorxiv.org/content/10.1101/2022.02.20.481230v2.abstract'
+    company_url: 'https://doi.org/10.1016/j.celrep.2025.115372'
     company_logo: nyu-logo
     location: New York City
     date_start: '2019-10-01'

@@ -18,13 +18,22 @@ experience:
     date_end: ''
     description: Large-scale computational modeling of brain dynamics.
 
+  - title: Visiting Postdoc
+    company: Berlin
+    company_url: ''
+    company_logo: ''
+    location: Berlin
+    date_start: '2025-11-01'
+    date_end: '2026-03-31'
+    description: ''
+
   - title: PhD Student
     company: Université Paris Cité, University of Oxford
     company_url: ''
     company_logo: oxford-logo
     location: Paris
     date_start: '2022-04-01'
-    date_end: '2025-06-30'
+    date_end: '2025-11-01'
     description: Studied the emergence of conscious access from the cortex topological architecture.
 
   - title: Research Scholar

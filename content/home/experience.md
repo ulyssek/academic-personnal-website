@@ -38,7 +38,7 @@ experience:
 
   - title: Research Scholar
     company: NYU
-    company_url: 'https://www.biorxiv.org/content/10.1101/2022.02.20.481230v2.abstract'
+    company_url: 'https://www.nyu.edu/'
     company_logo: nyu-logo
     location: New York City
     date_start: '2019-10-01'

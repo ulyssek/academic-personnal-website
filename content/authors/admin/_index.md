@@ -71,7 +71,7 @@ email: 'ulysse.klatzmann.hsj@ssss.gouv.qc.ca'
 highlight_name: true
 ---
 
-Parisian, born and raised, I have been driven by curiosity for as long as I can remember. It has led me to the wonderful labs of Guillaume Dumas and Alexander Bhatt Weil, my two postdoctoral supervisors and mentors. My longstanding passion for mathematics and computer science has shaped my research from a computational perspective.
+Parisian, born and raised, I have been driven by curiosity for as long as I can remember. It has led me to the wonderful labs of Guillaume Dumas and Alexander Weil, my two postdoctoral supervisors and mentors. My longstanding passion for mathematics and computer science has shaped my research from a computational perspective.
 <br/>
 <br/>I spend most of my time simulating large-scale dynamics in whole-cortex models, while enjoying the sweetness of life in Montreal.
 <br/>

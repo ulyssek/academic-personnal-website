@@ -14,7 +14,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Montreal
-    date_start: '2025-09-01'
+    date_start: '2026-04-01'
     date_end: ''
     description: Large-scale computational modeling of brain dynamics.
 

@@ -11,7 +11,7 @@ design:
 ---
 
 <div style="margin-bottom: 1.5rem;">
-  <img src="/mesec-brain.svg" alt="MESEC brain icon" style="width: 100px;">
+  <img src="/mesec-brain.png" alt="MESEC brain icon" style="width: 100px;">
 </div>
 
 [MESEC](https://mesec.co) is a bottom-up international initiative that fosters dialogue across approaches to consciousness science. We organize workshops and winter schools, bringing together researchers from around the world under the sun of the Mediterranean Sea.

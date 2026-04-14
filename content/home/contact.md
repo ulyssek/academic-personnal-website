@@ -22,11 +22,11 @@ content:
   # Contact details (edit or remove options as required)
   email: ulysse.klatzmann.hsj@ssss.gouv.qc.ca
   address:
-    street: 45 rue des Saints-Pères 
-    city: Paris
-    postcode: '75006'
-    country: France 
-    country_code: FR
+    street: ''
+    city: Montreal
+    postcode: ''
+    country: Canada
+    country_code: CA
   contact_links:
     - icon: github
       icon_pack: fab

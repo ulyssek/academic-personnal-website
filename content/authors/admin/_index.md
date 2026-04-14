@@ -47,15 +47,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=fr&user=lCXjLYsAAAAJ
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/ulysseklatzmann 
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/scholar?as_q=&num=10&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=%22Ulysse+Klatzmann%22&as_publication=&as_ylo=&as_yhi=&as_allsubj=all&hl=en 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/ulysseklatzmann/ 
+    link: https://github.com/ulyssek/
+  - icon: bluesky
+    icon_pack: custom
+    link: https://bsky.app/profile/ulysse-klatzmann.bsky.social
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ulysse.klatzmann@cnrs.fr'
+email: 'ulysse.klatzmann.hsj@ssss.gouv.qc.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

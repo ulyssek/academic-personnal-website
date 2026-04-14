@@ -75,7 +75,7 @@
             {{ if eq $pack "custom" }}
               {{ $svg := resources.Get (printf "media/icons/brands/%s.svg" .icon) }}
               {{ if $svg }}
-                <span style="display:inline-block;width:3rem;height:3rem;vertical-align:middle;">{{ $svg.Content | safeHTML }}</span>
+                <span style="display:inline-block;width:2.25rem;height:2.25rem;vertical-align:middle;">{{ $svg.Content | safeHTML }}</span>
               {{ end }}
             {{ else }}
               <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>

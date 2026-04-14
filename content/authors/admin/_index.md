@@ -6,15 +6,15 @@ title: Ulysse Klatzmann
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in NeuroCognitive Modeling
+role: Postdoctoral Researcher in Computational Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Université Paris Cité / University of Oxford
-    url: https://u-paris.fr/en/
+  - name: CHU Sainte-Justine / Université de Montréal
+    url: https://www.chusj.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include dynamical bio-inspired large-scale simulations of the brain.
+bio: My research interests include large-scale computational modeling of brain dynamics.
 
 # Interests to show in About widget
 interests:
@@ -71,9 +71,10 @@ email: 'ulysse.klatzmann.hsj@ssss.gouv.qc.ca'
 highlight_name: true
 ---
 
-Parisian, born and raised! Curiosity drove my whole life, and led me to the wonderful labs of Daniel Margulies and Sean Froudist-Walsh — my two PhD supervisors and mentors — where I study the emergence of conscious access from the cortex topological architecture. My passion for mathematics and computer science gave me a computational angle.
-<br/>I spend most of my time simulating global dynamics within whole cortex models and enjoying the river banks and rooftops of beautiful Paris.
+Parisian, born and raised, I have been driven by curiosity for as long as I can remember. It has led me to the wonderful labs of Guillaume Dumas and Alexander Weil, my two postdoctoral supervisors and mentors. My longstanding passion for mathematics and computer science has shaped my research from a computational perspective.
 <br/>
-<br/>I thrive on scientific discussions, especially with people I don't agree with. This is, I guess, one of the reasons that led me to the <a href="https://mesec.co">MESEC adventure</a>, a series of international workshops and winter schools that I organize with friends from all around the globe, under the sun of the Mediterranean Sea.
+<br/>I spend most of my time simulating large-scale dynamics in whole-cortex models, while enjoying the sweetness of life in Montreal.
+<br/>
+<br/>I thrive on scientific discussions, especially with people I disagree with. This, I suppose, is one of the reasons that led me to the <a href="https://mesec.co">MESEC adventure</a>: a series of international workshops and winter schools that I organize with friends from around the world, under the sun of the Mediterranean Sea.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

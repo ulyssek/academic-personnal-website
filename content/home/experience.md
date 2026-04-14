@@ -9,14 +9,23 @@ subtitle:
 date_format: Jan 2006
 
 experience:
+  - title: Postdoctoral Researcher
+    company: CHU Sainte-Justine, Université de Montréal
+    company_url: ''
+    company_logo: udem-logo
+    location: Montreal
+    date_start: '2026-04-01'
+    date_end: ''
+    description: Large-scale computational modeling of brain dynamics.
+
   - title: PhD Student
     company: Université Paris Cité, University of Oxford
     company_url: ''
     company_logo: oxford-logo
     location: Paris
     date_start: '2022-04-01'
-    date_end: ''
-    description: Studying the emergence of conscious access from the cortex topological architecture.
+    date_end: '2025-06-30'
+    description: Studied the emergence of conscious access from the cortex topological architecture.
 
   - title: Research Scholar
     company: NYU

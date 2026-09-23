@@ -5,7 +5,7 @@ authors:
   - Ulysse Klatzmann
 
 date: '2025-09-01T00:00:00Z'
-doi: 'https://doi.org/10.1101/2025.09.08.674858'
+doi: '10.1101/2025.09.08.674858'
 
 publishDate: '2025-09-01T00:00:00Z'
 
@@ -22,7 +22,7 @@ tags: []
 
 featured: false
 
-url_pdf: 'klatzmann-scd-2025.pdf'
+url_pdf: 'scd-biorxiv.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

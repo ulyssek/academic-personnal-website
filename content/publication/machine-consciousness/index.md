@@ -29,7 +29,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.sciencedirect.com/science/article/pii/S3117347026000866'
 url_video: ''
 
 image:

@@ -1,29 +1,29 @@
 ---
-title: 'If machines cannot be conscious, how would we know?'
+title: 'What biology can and cannot tell us about conscious AI'
 
 authors:
   - Ulysse Klatzmann
   - Adrien Doerig
 
-date: '2025-06-01T00:00:00Z'
-doi: 'https://doi.org/10.31234/osf.io/raqsh_v1'
+date: '2026-08-01T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.treopn.2026.07.012'
 
-publishDate: '2025-06-01T00:00:00Z'
+publishDate: '2026-08-01T00:00:00Z'
 
-publication_types: ['3']
+publication_types: ['2']
 
-publication: PsyArXiv
-publication_short: PsyArXiv
+publication: Trends Open
+publication_short: Trends Open
 
 abstract: ''
 
-summary: "Argues that if biological naturalist views deny machine consciousness, they should still generate empirically testable criteria; otherwise the debate risks remaining purely conceptual and scientifically underconstrained."
+summary: "Splits Biological Naturalism — the view that only biological systems can be conscious — into two exhaustive kinds: one holding that biology matters for what it is *made of* (empirically untestable in principle), the other that biology affords unique information-processing abilities (testable, and compatible with computational functionalism). The upshot: biology alone cannot tell us which systems are conscious, but it can guide us toward the information processing that does."
 
 tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'klatzmann-doerig-2026.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -6,7 +6,7 @@ authors:
   - Adrien Doerig
 
 date: '2026-08-01T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.treopn.2026.07.012'
+doi: '10.1016/j.treopn.2026.07.012'
 
 publishDate: '2026-08-01T00:00:00Z'
 
@@ -23,7 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: 'klatzmann-doerig-2026.pdf'
+url_pdf: 'machine-consciousness.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

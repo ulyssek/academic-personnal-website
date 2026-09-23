@@ -6,7 +6,7 @@ authors:
   - Adrien Doerig
 
 date: '2026-08-01T00:00:00Z'
-doi: '10.1016/j.treopn.2026.07.012'
+doi: ''
 
 publishDate: '2026-08-01T00:00:00Z'
 
@@ -23,14 +23,21 @@ tags: []
 
 featured: false
 
-url_pdf: 'machine-consciousness.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.sciencedirect.com/science/article/pii/S3117347026000866'
+url_source: ''
 url_video: ''
+
+# Single custom button linking to the paper PDF hosted on this site.
+# The file is deliberately NOT named after the folder, so the theme does
+# not also auto-generate a separate "PDF" button.
+links:
+  - name: Paper
+    url: paper.pdf
 
 image:
   caption: ''

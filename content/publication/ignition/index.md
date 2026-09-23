@@ -19,7 +19,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-03-01T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.celrep.2025.115372'
+doi: '10.1016/j.celrep.2025.115372'
 
 publishDate: '2025-03-01T00:00:00Z'
 

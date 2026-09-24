@@ -15,7 +15,7 @@ publication_types: ['2']
 publication: Trends Open
 publication_short: Trends Open
 
-abstract: ''
+abstract: "Progress in artificial intelligence is turning machine consciousness from a philosophical curiosity into a societal issue, and has led to criticism of the widespread computational functionalist framework. Biological Naturalism (BN) claims that biology, not computation, is crucial for consciousness. In this opinion article, we highlight a dichotomy between two types of BN: Constitutive-BN and Enabling-BN. This dichotomy serves to distinguish possible BN theories. We argue that Constitutive-BN, which claims that biology is 'intrinsically' special, cannot be empirically supported, whereas Enabling-BN, which claims that biology affords unique information-processing abilities, can. Importantly, Enabling-BN is compatible with computational functionalism. We conclude that biology, by itself, cannot tell us which systems are conscious. However, it can act as a guide toward the required information processing."
 
 summary: "Splits Biological Naturalism — the view that only biological systems can be conscious — into two exhaustive kinds: one holding that biology matters for what it is *made of* (empirically untestable in principle), the other that biology affords unique information-processing abilities (testable, and compatible with computational functionalism). The upshot: biology alone cannot tell us which systems are conscious, but it can guide us toward the information processing that does."
 

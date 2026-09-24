@@ -14,7 +14,7 @@ publication_types: ['3']
 publication: bioRxiv
 publication_short: bioRxiv
 
-abstract: ''
+abstract: "Understanding how the brain encodes information started with a map but turned into a maze: paths multiplied; boundaries blurred. Neurons tuned to specific features are not confined to single regions, but distributed across the cortex. Retinotopy, once thought limited to early visual areas, now appears in over 20 cortical regions—from the tip of the occipital cortex to the shore of the lateral frontal cortex. To describe and understand these complex mosaics of functional specialization, we focus on the spatial influences that shape their emergence across the cortical sheet. To this end, we developed Spatial Component Decomposition (SCD), a sparse dictionary learning framework that locates sources of spatial influence without relying on prior assumptions from systems neuroscience. Applied to MRI data capturing retinotopic maps, SCD reveals a dominant linear gradient extending over 60 mm from V1 and covering all the known posterior visual areas. Yet, it also revealed systematic competition from other primary sensory areas and default mode transmodal hubs. These suppressive influences shape the cortical embedding of visual information, even during purely visual tasks. Our results suggest that functional specialization emerges from spatial competition between representational systems—not just from feedforward inputs."
 
 summary: "Introduces Spatial Component Decomposition (SCD), a sparse dictionary-learning framework for identifying the spatial influences that shape cortical representational geometry."
 

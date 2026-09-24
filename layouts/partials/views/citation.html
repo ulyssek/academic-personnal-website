@@ -1,0 +1,71 @@
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{/* Local override for the home "Recent Publications" list:
+     - Bold the site owner's name so it stands out (list only, not the article page).
+     - Keep the equal-contribution star (author_notes) after each marked author.
+     - Truncate to "Ulysse Klatzmann, et al." ONLY when he is the first author
+       (so his name is already visible). Otherwise show the full author list,
+       so his name still appears even when he is a middle author. */}}
+{{ $me := "Ulysse Klatzmann" }}
+{{ $authors := $item.Params.authors }}
+{{ $notes := $item.Params.author_notes }}
+{{ $star_fmt := `<sup class="author-notes" data-toggle="tooltip" title="%s">*</sup>` }}
+
+{{ $author_html := "" }}
+{{ if and (gt (len $authors) 3) (eq (index $authors 0) $me) }}
+  {{ $star := "" }}
+  {{ if and $notes (gt (len $notes) 0) }}{{ with (index $notes 0) }}{{ $star = printf $star_fmt . }}{{ end }}{{ end }}
+  {{ $author_html = printf "<strong>%s</strong>%s, et al." $me $star }}
+{{ else }}
+  {{ $parts := slice }}
+  {{ range $i, $a := $authors }}
+    {{ $name := $a }}
+    {{ if eq $a $me }}{{ $name = printf "<strong>%s</strong>" $a }}{{ end }}
+    {{ $star := "" }}
+    {{ if and $notes (lt $i (len $notes)) }}{{ with (index $notes $i) }}{{ $star = printf $star_fmt . }}{{ end }}{{ end }}
+    {{ $parts = $parts | append (printf "%s%s" $name $star) }}
+  {{ end }}
+  {{ $author_html = delimit $parts ", " }}
+{{ end }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  {{/* APA Style */}}
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+
+  <span class="article-metadata li-cite-author">
+    {{ $author_html | safeHTML }}
+  </span>
+  ({{- $item.Date.Format "2006" -}}).
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}}.
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}}.
+  {{ end }}
+  <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
+
+  {{/* MLA Style */}}
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">
+    {{ $author_html | safeHTML }}.
+  </span>
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}},
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}},
+  {{ end }}
+  {{- $item.Date.Format "2006" -}}.
+
+  {{ if $has_attachments }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+  {{ end }}
+</div>

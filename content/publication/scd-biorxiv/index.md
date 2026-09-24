@@ -3,6 +3,7 @@ title: 'Spatial layout of visual specialization is shaped by competing spatial i
 
 authors:
   - Ulysse Klatzmann
+  - et al
 
 date: '2025-09-01T00:00:00Z'
 doi: ''

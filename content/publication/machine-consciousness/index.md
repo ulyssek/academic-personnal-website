@@ -5,6 +5,10 @@ authors:
   - Ulysse Klatzmann
   - Adrien Doerig
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: '2026-08-01T00:00:00Z'
 doi: ''
 

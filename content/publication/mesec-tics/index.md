@@ -44,7 +44,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'Diversity of MESEC participants'
   focal_point: ''
   preview_only: false
 ---

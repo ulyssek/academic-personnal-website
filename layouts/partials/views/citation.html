@@ -1,15 +1,26 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-{{/* Local override: on the listing (home "Recent Publications"), truncate long
-     author lists to "First Author, et al." The full list still shows on the
-     article page (rendered by page_metadata_authors). */}}
+{{/* Local override for the home "Recent Publications" list:
+     - Bold the site owner's name so it stands out (list only, not the article page).
+     - Truncate to "Ulysse Klatzmann, et al." ONLY when he is the first author
+       (so his name is already visible). Otherwise show the full author list,
+       so his name still appears even when he is a middle author. */}}
+{{ $me := "Ulysse Klatzmann" }}
 {{ $authors := $item.Params.authors }}
-{{ $author_line := "" }}
-{{ if gt (len $authors) 3 }}
-  {{ $author_line = printf "%s, et al." (index $authors 0) }}
+{{ $author_html := "" }}
+{{ if and (gt (len $authors) 3) (eq (index $authors 0) $me) }}
+  {{ $author_html = printf "<strong>%s</strong>, et al." $me }}
 {{ else }}
-  {{ $author_line = delimit $authors ", " }}
+  {{ $parts := slice }}
+  {{ range $authors }}
+    {{ if eq . $me }}
+      {{ $parts = $parts | append (printf "<strong>%s</strong>" .) }}
+    {{ else }}
+      {{ $parts = $parts | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $author_html = delimit $parts ", " }}
 {{ end }}
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
@@ -19,7 +30,7 @@
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <span class="article-metadata li-cite-author">
-    {{ $author_line }}
+    {{ $author_html | safeHTML }}
   </span>
   ({{- $item.Date.Format "2006" -}}).
   <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
@@ -34,7 +45,7 @@
   {{ else }}
 
   <span class="article-metadata li-cite-author">
-    {{ $author_line }}.
+    {{ $author_html | safeHTML }}.
   </span>
   <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
   {{ if $item.Params.publication_short }}

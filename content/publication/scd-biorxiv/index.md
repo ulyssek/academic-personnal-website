@@ -3,7 +3,17 @@ title: 'Spatial layout of visual specialization is shaped by competing spatial i
 
 authors:
   - Ulysse Klatzmann
-  - et al
+  - Robert Scholz
+  - R. Austin Benn
+  - Francesco Alberti
+  - Victoria Shevchenko
+  - Alexander Holmes
+  - Wei Wei
+  - Carla Pallavicini
+  - Robert Leech
+  - Pierre-Louis Bazin
+  - Sean Froudist-Walsh
+  - Daniel S. Margulies
 
 date: '2025-09-01T00:00:00Z'
 doi: ''

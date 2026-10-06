@@ -76,5 +76,7 @@ Parisian, born and raised, I have been driven by curiosity for as long as I can 
 <br/>I spend most of my time simulating large-scale dynamics in whole-cortex models, while enjoying the sweetness of life in Montreal.
 <br/>
 <br/>I thrive on scientific discussions, especially with people I disagree with. This, I suppose, is one of the reasons that led me to the <a href="https://mesec.co" target="_blank" rel="noopener">MESEC adventure</a>: a series of international workshops and winter schools that I organize with friends from around the world, under the sun of the Mediterranean Sea.
+<br/>
+<br/>We recently reflected on what makes such a community thrive — how empowering early-career researchers can turn disagreement into progress rather than isolation — in <a href="/publication/mesec-tics/">Science from the bottom up</a> (<em>Trends in Cognitive Sciences</em>).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

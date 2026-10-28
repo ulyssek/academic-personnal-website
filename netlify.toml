@@ -19,3 +19,19 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Serve the cortexmap docs (a standalone Netlify site) under /cortexmap/ without ever putting
+# their ~158 MB of interactive 3-D HTML into this repo. status=200 is a rewrite/proxy, so the
+# address bar stays on ulysse-klatzmann.com/cortexmap/… . The docs themselves carry a per-page
+# <meta robots=noindex> + robots.txt, so neither the path nor the raw .netlify.app origin is indexed.
+[[redirects]]
+  from = "/cortexmap"
+  to = "/cortexmap/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cortexmap/*"
+  to = "https://cortexmap-docs.netlify.app/:splat"
+  status = 200
+  force = true
